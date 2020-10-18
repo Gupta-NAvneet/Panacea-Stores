@@ -4,7 +4,7 @@ A **Grocery App**. This project is a  a Flutter application.[Download](https://g
 
 ## Over-View
 
-![Home](readimg\Screenshot_20201018-101736.jpg)
+![Home](readimg/Screenshot_20201018-101736.jpg)
 
 ### Screens
 
@@ -13,21 +13,21 @@ A **Grocery App**. This project is a  a Flutter application.[Download](https://g
 ##### Features
 
 ###	i. Adding Items to Wishlist. 
-![Home](readimg\2.jpg)
+![WishList](readimg/2.jpg)
 
 ### ii. Showing WishListed items.
-![Home](readimg\3.jpg)
+![WishListedItems](readimg/3.jpg)
 ### iii. Adding Items to Cart &Increase count on Cart Icon.
-![Home](readimg\3.jpg)
+![Cart](readimg/3.jpg)
 ### iv. Navigating to Cart Screen.
-![Home](readimg\54.jpg)
+![CartScreen](readimg/54.jpg)
 
 ### v. Navigating to Product Detail Screen.
 
 ### vi. App Drawer.
-![Home](readimg\6.jpg)
+![aPP](readimg/6.jpg)
  vii. SnackBar to Undo Cart Added Items.
-![Home](readimg\7.jpg)
+![Snack](readimg/7.jpg)
 #### 2. Cart
 
 ##### Features
