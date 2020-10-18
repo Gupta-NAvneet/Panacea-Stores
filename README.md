@@ -1,6 +1,6 @@
 # Panacea Stores
 
-A **Grocery App**. This project is a  a Flutter application.
+A **Grocery App**. This project is a  a Flutter application.[Download](https://github.com/sauravchaudharysc/Panacea-Stores/raw/main/Panacea_Stores_base.apk)
 
 ## Over-View
 
